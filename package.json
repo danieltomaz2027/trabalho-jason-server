@@ -1,0 +1,23 @@
+{
+  "name": "nova-pasta",
+  "version": "1.0.0",
+  "description": "Segundo jeito de criar um json-server.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/danieltomaz2027"
+  },
+  "homepage": ""
+}

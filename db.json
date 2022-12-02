@@ -1,0 +1,72 @@
+{
+  "Filmes": [
+    {
+      "id": 1,
+      "nome": "O Poderoso Chefão",
+      "dirigido": "Francis Ford Coppola",
+      "ano": 1972
+      
+    },
+    {
+      "id":2,
+      "nome": "Pantera Negra: Wakanda para Sempre",
+      "dirigido": "Ryan Coogler",
+      "ano": 2022
+      
+    },
+    {
+      "id":3,
+      "nome": "Adão Negro ",
+      "dirigido": "Jaume Collet-Serra",
+      "ano": 2022
+      
+    },
+    {
+      "id": 4,
+      "nome": "Noite Infeliz ",
+      "dirigido": "Tommy Wirkola",
+      "ano": 2022
+      
+    }
+  ],
+  "Produtores-famosos": [
+    {
+      "id": 1,
+      "nome": "Irwin Winkler"
+    },
+    {
+      "id": 2,
+      "nome": "Samuel Goldwyn"
+    },
+    {
+      "id": 3,
+      "nome": "Brian Grazer"
+    },
+    {
+      "id": 4,
+      "nome": "Darryl Francis Zanuck"
+    }
+  ],
+  "Cinemas-famosos-sao-paulo": [
+    {
+      "id": 1,
+      "nome": "Reserva Cultural",
+      "local":"av paulista, 900"
+    },
+    {
+      "id": 2,
+      "nome": "Cinemark Iguatemi",
+      "local":"Avenida Brigadeiro Faria Lima, 2232"
+    },
+    {
+      "id": 3,
+      "nome": "Cinesala",
+      "local":"R. Fradique Coutinho, 361"
+    },
+    {
+      "id": 4,
+      "nome": "Espaço Itaú de Cinema",
+      "local":"Shopping Frei Caneca, R. Frei Caneca, 569"
+    }
+  ]
+}
